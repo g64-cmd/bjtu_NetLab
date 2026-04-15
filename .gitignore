@@ -27,7 +27,9 @@ replay_pid*
 *.doc
 *.docx
 *.7z
+*.exe
 
 .idea/
 
 __pycache__/
+
